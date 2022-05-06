@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Grammar-Programmer
 - 👀 I’m interested in sleeping.
-- 🌱 I’m currently learning java, bash, C and maybe Brainfuck.
-- 💞️ I’m looking to collaborate on projects. LOL
+- 🌱 I’m currently learning java, bash, C and maybe Rust.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... unavailable for now ;)
 
 <!---
