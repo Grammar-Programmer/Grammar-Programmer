@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grammar-Programmer
 - 👀 I’m interested in sleeping.
-- 🌱 I’m currently learning java, bash, C and maybe Rust.
+- 🌱 I’m currently learning java, MariaDB, C and maybe Rust.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... unavailable for now ;)
 
