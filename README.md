@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Grammar-Programmer
-- 👀 I’m interested in sleeping.
+- 👀 I’m interested in building new projects.
 - 🌱 I’m currently learning java, MariaDB, C and maybe Rust.
 - 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me ... unavailable for now ;)
+- 📫 How to reach me ... https://twitter.com/GramarProgramer
 
 <!---
 Grammar-Programmer/Grammar-Programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
