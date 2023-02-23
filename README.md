@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grammar-Programmer
 - 👀 I’m interested in building new projects.
-- 🌱 I’m currently learning Java, MySQL, C and Python
+- 🌱 I’m currently learning Java, MySQL, C and Python.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... https://twitter.com/GramarProgramer
 
